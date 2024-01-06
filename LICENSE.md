@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Licença
-nav_order: 3
+nav_order: 7
 ---
 Aprovada
 {: .label .label-blue }

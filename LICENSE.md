@@ -1,3 +1,27 @@
+---
+layout: default
+title: Licença
+nav_order: 3
+---
+Aprovada
+{: .label .label-blue }
+
+Vigente
+{: .label .label-green }
+# Licença
+{: .no_toc }
+
+Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade de todas as pessoas.
+{: .fs-6 .fw-300 }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 Atribuição 4.0 Internacional
 
 =======================================================================

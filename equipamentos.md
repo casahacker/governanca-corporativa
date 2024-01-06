@@ -44,6 +44,7 @@ Todos as atuais e futuros empreendimentos e negócios da Casa Hacker devem defin
 6. Ao acessar recursos corporativos remotamente, é necessário utilizar VPNs para garantir a segurança da conexão.
 7. É terminantemente proibido compartilhar informações confidenciais por meio de redes Wi-Fi públicas.
 8. O gerenciamento eficiente do armazenamento é crucial, evitando o armazenamento desnecessário de grandes arquivos ou dados pessoais, conforme as diretrizes estabelecidas.
+9. Os equipamentos de Aúdio, Imagem e Vídeo devem ter seus conteúdos audivisuais copiados para mídia externa ou na nuvem antes de serem devolvidos. Não é responsabilidade da área operacional gestora dos equipamentos audivisuais a gestão ou armazenamento de contéudo audiovisual.
 
 ## Conectividade
 1. O plano de dados móveis corporativos destina-se exclusivamente ao uso relacionado às atividades operacionais, projetos e programas da Casa Hacker;
@@ -83,10 +84,6 @@ O transporte/deslocamento deve ser realizado em mochila impermeável e anti impa
 9. Após receber suporte, é recomendado que os usuários testem as soluções implementadas para garantir a resolução satisfatória dos problemas.
 10. Qualquer problema persistente ou recorrente deve ser relatado imediatamente à equipe de suporte.
 11. Evitar solicitar suporte para questões que possam ser facilmente resolvidas com recursos disponíveis, como manuais ou materiais de treinamento, contribui para a eficiência do processo de suporte técnico.
-
-## Aúdio, Imagem e Vídeo
-1. Os equipamentos de Aúdio, Imagem e Vídeo devem ter seus conteúdos audivisuais copiados para mídia externa ou na nuvem antes de serem devolvidos.
-2. Não é responsabilidade da área operacional gestora dos equipamentos audivisuais a gestão ou armazenamento de contéudo audiovisual.
 
 ## Perda, Dano ou Roubo
 1. Qualquer dano, perda ou roubo do dispositivo deve ser reportado por meio de uma notificação no Jira Service Management em até 48 horas;

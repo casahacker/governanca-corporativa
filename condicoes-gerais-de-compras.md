@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Compras
-nav_order: 2
+title: Condições Gerais de Compras
+nav_order: 3
 ---
 
-# Política de Compras
+# Condições Gerais de Compras
 {: .no_toc }
 
 Garantir, durante o processo de aquisição de bens e serviços e gestão da cadeia de fornecedores e prestadores de serviços, a construção de relacionamento ético e transparente buscando qualidade, impacto social e sustentabilidade.
@@ -18,7 +18,6 @@ Garantir, durante o processo de aquisição de bens e serviços e gestão da cad
 
 ---
 
-# Condições Gerais de Compras
 ## 1. Premissas
 1.1. O objeto do presente Termo consiste em regular as “Condições Gerais de Compras” pelo Fornecedor à Casa Hacker, sem exclusividade, dos produtos descritos no Pedido de Compra, Termo de Referência, Contrato e Anexos emitidos e/ou a serem emitidos;
 

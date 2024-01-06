@@ -21,9 +21,7 @@ Leia a licença atentamente antes de compartilhar, modificar e publicar nossas p
 {:toc}
 
 ---
-
-Licença Pública Creative Commons Atribuição 4.0 Internacional
-
+```
 Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e
 concorda estar sujeito aos termos e condições desta Licença Pública
 Creative Commons Atribuição 4.0 Internacional ("Licença Pública"). Na
@@ -363,3 +361,4 @@ Cláusula 8 -- Interpretação.
      imunidades aplicáveis ao Licenciante ou a Você, incluindo os
      resultantes dos processos legais de qualquer jurisdição ou
      autoridade.
+```

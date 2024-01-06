@@ -89,5 +89,5 @@ Todas as denúncias recebidas são tratadas com a devida seriedade, sendo sujeit
 
 Caso a infração envolva violações do Estatuto da Criança e do Adolescente, a Casa Hacker realizará ainda uma denúncia formal junto às autoridades policiais. Nesse contexto, não haverá margem para omissões, assegurando que a devida ação legal seja tomada para preservar a segurança e o bem-estar das crianças e adolescentes envolvidos.
 
-## 7. Vigência
+## Vigência
 A presente Política entra em vigor a contar de sua aprovação permanecendo válida e aplicável até seja alterada.

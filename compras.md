@@ -4,31 +4,29 @@ title: Compras
 nav_order: 2
 ---
 
-# Configuration
+# Política de Compras
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+Compras que visam garantir qualidade, eficiência e parcerias éticas, priorizando a conformidade e fornecedores alinhados com nossos valores e compromissos de sustentabilidade.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Índice
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
-
-# Política de Compras
 ## 1. Objetivo
 Garantir, durante o processo de aquisição de bens e serviços e gestão da cadeia de fornecedores e prestadores de serviços, a construção de relacionamento ético e transparente buscando qualidade, impacto social e sustentabilidade. Este relacionamento deve assegurar a perenidade e legalidade das operações atividades, além de estimular a responsabilidade socioambiental e inovação de forma contínua e evolutiva.
 
 ## 2. Abrangência
 
 A presente política aplica-se a todas as compras que incluem: 
-- Compras de mercadorias, materiais e serviços;
-- Compras nacionais e internacionais;
-- Compras diretas e indiretas;
-- Compras de pequeno, médio e grande porte.
+* Compras de mercadorias, materiais e serviços;
+* Compras nacionais e internacionais;
+* Compras diretas e indiretas;
+* Compras de pequeno, médio e grande porte.
 
 A política de compras é de aplicação obrigatória a todos os membros da Assembleia Geral, do Conselho de Administração e da Diretoria-Executiva (“Administradores”), do Conselho Fiscal e Funcionários, incluindo terceirizados, prestadores de serviços diretos e indiretos, estagiários e jovens aprendizes (“Pessoas”) da Associação Casa Hacker (“Casa Hacker”).
 

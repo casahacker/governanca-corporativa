@@ -8,10 +8,10 @@ Aprovada
 
 Vigente
 {: .label .label-green }
-# Licença
+# Licença Pública Creative Commons Atribuição 4.0 Internacional
 {: .no_toc }
 
-Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade de todas as pessoas.
+Leia a licença atentamente antes de compartilhar, modificar e publicar nossas políticas internas.
 {: .fs-6 .fw-300 }
 
 ## Índice

@@ -130,6 +130,10 @@ Os documentos fiscais válidos nas operações de Compras são:
 13. **Fatura de Registro:** Documento de registro e renovação de domínios que tenham o ".br".
 14. **Nota Fiscal de Telecomunicações (NFCom):** Emitida por prestadores de serviços de telecomunicações.
 
+## Legislação aplicável
+- Lei nº 8.846, de 21 de janeiro de 1994, que dispõe sobre a emissão de documentos fiscais e o arbitramento da receita mínima para efeitos tributários. Esta lei estabelece que toda pessoa jurídica ou física que realize operações de venda de mercadorias, prestação de serviços ou operações de alienação de bens móveis deve emitir nota fiscal, recibo ou documento equivalente.
+- Lei nº 8.078, de 11 de setembro de 1990, que estabelece direitos e garantias para os consumidores em relação aos produtos e serviços que adquirem, como direito à informação, escolha, segurança, qualidade, proteção contra publicidade e educação para o consumo.
+
 ## Prazos (SLA)
 - Análise da Solicitação de Compra e Emissão de Ordem: +5 dias úteis
 - Pagamento: +5 dias úteis

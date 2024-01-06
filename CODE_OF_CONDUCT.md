@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Código de Conduta da Comunidade
-nav_order: 3
+nav_order: 2
 ---
 Aprovada
 {: .label .label-blue }

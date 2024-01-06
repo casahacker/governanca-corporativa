@@ -43,7 +43,10 @@ Todos as atuais e futuros empreendimentos e negócios da Casa Hacker devem defin
 4. Esta política tem por objetivo construir e qualificar o conjunto de procedimentos administrativos e financeiros institucionais, bem como ampliar sua transparência e facilitar seu cumprimento. Para salvaguardar direitos das partes, a Casa Hacker adota a formalização da compra por meio de (i) contrato padrão e/ou (ii) ordem de compra, nas condições operacionais, técnicas e comerciais, na transparência e sustentabilidade dos negócios.
 5. O cumprimento das orientações a seguir é fundamental, sob risco da não liberação de recursos institucionais para pagamento dos serviços, em caso de descumprimento. O processo de compras obedecerá a princípios rígidos de equidade e transparência.
 
-## Seleção de fornecedores
+## Responsabilidades
+
+
+## Seleção de Fornecedores
 As diretrizes para seleção de fornecedores são as seguintes:
 1. Sempre buscar fornecedores que implementem boas práticas comerciais, sociais e ambientais;
 2. Procurar alcançar economias sem perder qualidade e eficiência;
@@ -71,7 +74,7 @@ Fica dispensado o procedimento de Seleção de Fornecedores, mediante autorizaç
 5. Locação de imóveis e espaços de trabalho ou para eventos;
 6. Em caráter de emergência, quando caracterizada a imediata necessidade de utilização de bem ou serviço, a urgência de atendimento de situação que possa ocasionar prejuízos a Casa Hacker ou comprometer a segurança de pessoas, obras, serviços ou equipamentos.
 
-## Homologação de fornecedores
+## Homologação de Fornecedores
 A homologação de fornecedores garantirá que os mesmos atendam aos requisitos da Casa Hacker de regularidade fiscal, tributária, cadastral e de licenças para exercer o fornecimento de bens e serviços, quando aplicável.
 
 Os requisitos para homologação de fornecedores são:
@@ -107,7 +110,7 @@ Sempre que uma compra atender a um ou mais dos critérios a seguir, a área de C
 
 Os contratos redigidos de acordo com o Direito Civil brasileiro e com a Teoria Geral dos Contratos.
 
-## Fluxo do Processo e Emissão da Ordem de Compra
+## Fluxo do Processo
 XXXX
 
 ## Documentação fiscal válida
@@ -128,15 +131,14 @@ Os documentos fiscais válidos nas operações de Compras são:
 14. **Nota Fiscal de Telecomunicações (NFCom):** Emitida por prestadores de serviços de telecomunicações.
 
 ## Prazos (SLA)
-- Emissão de Ordem de Compra: 5 dias úteis
-- Pagamento: 5 dias úteis
-- Informações e suporte: 5 dias úteis
+- Análise da Solicitação de Compra e Emissão de Ordem: +5 dias úteis
+- Pagamento: +5 dias úteis
+- Informações e Suporte: +5 dias úteis
 
 ## Disposições finais
-1. A Diretoria Executiva poderá ordenar, a qualquer tempo, auditorias internas nos processos de compras e de contratação;
-2. Quando não for possível realizar o número de cotações estabelecidas nesta Política a área de Compras autorizará a compra com o número de cotações que houver, mediante justificativa;
-3. Fica vedada a contratação de Fornecedores cujos administradores e sócios sejam parentes, até terceiro grau, de conselheiros, diretores ou gerentes da Casa Hacker;
-4. Os casos omissos nesta Política serão decididos pela Diretoria Executiva da Casa Hacker submetendo-se suas decisões à ratificação do Conselho de Administração.
+1. Quando não for possível realizar o número de cotações estabelecidas nesta Política a área de Compras autorizará a compra com o número de cotações que houver, mediante justificativa;
+1. Fica vedada a contratação de Fornecedores cujos administradores e sócios sejam parentes, até terceiro grau, de conselheiros, diretores ou gerentes da Casa Hacker;
+1. Os casos omissos nesta Política serão decididos pela Diretoria Executiva da Casa Hacker submetendo-se suas decisões à ratificação do Conselho de Administração.
 
 ## Vigência
 A presente Política entra em vigor a contar de sua aprovação permanecendo válida e aplicável até seja alterada.

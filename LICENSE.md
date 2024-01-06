@@ -22,68 +22,6 @@ Leia a licença atentamente antes de compartilhar, modificar e publicar nossas p
 
 ---
 
-Atribuição 4.0 Internacional
-
-=======================================================================
-
-A organização Creative Commons (“Creative Commons”) não é um
-escritório de advocacia e não presta serviços jurídicos ou
-aconselhamento jurídico. A distribuição das licenças públicas Creative
-Commons não estabelece uma relação advogado-cliente ou outra relação.
-A Creative Commons disponibiliza as suas licenças e informação
-relacionada “no estado em que se encontram” (“as-is”). A Creative
-Commons não oferece garantias relativamente às suas licenças, a
-qualquer material licenciado sob os seus termos e condições, ou a
-qualquer informação relacionada. A Creative Commons exonera-se, da
-forma mais ampla possível, de qualquer responsabilidade por danos
-decorrentes da sua utilização.
-
-Utilizando as Licenças Públicas Creative Commons
-
-As licenças públicas Creative Commons oferecem um conjunto padrão de
-termos e condições que criadores e outros detentores de direitos podem
-utilizar para compartilhar obras originais de autor, outros materiais
-sujeitos a direito de autor e direitos conexos, e certos outros
-direitos especificados na licença pública abaixo. As considerações a
-seguir são apenas para fins de informação, não são exaustivas e não
-fazem parte de nossas licenças.
-
-    Considerações para licenciantes: As nossas licenças públicas são
-    destinadas a utilização por aqueles que tenham autorização para
-    conceder permissão pública para a utilização de material de
-    maneiras que seriam, caso contrário, restringidas pelo direito de
-    autor e direitos conexos, e certos outros direitos. As nossas
-    licenças são irrevogáveis. Os licenciantes devem ler e entender os
-    termos e condições da licença escolhida antes de aplicá-la. Os
-    licenciantes devem assegurar todos os direitos necessários antes
-    de aplicar as nossas licenças, de modo a que o público possa
-    reutilizar o material conforme esperado. Os licenciantes devem
-    identificar claramente qualquer material não sujeito à licença.
-    Isso inclui outros materiais licenciados sob CC, ou materiais
-    utilizados sob uma exceção ou limitação ao direito de autor e
-    direitos conexos. Mais considerações para licenciantes:
-    wiki.creativecommons.org/Considerations_for_licensors.
-
-    Considerações para o público: Ao utilizar uma das nossas licenças
-    públicas, o licenciante concede ao público permissão para utilizar
-    o material licenciado sob termos e condições especificados. Se a
-    permissão do licenciante não for necessária por qualquer razão –
-    por exemplo, por ser aplicável qualquer exceção ou limitação ao
-    direito de autor e direitos conexos -- então essa utilização não é
-    regida pela licença. As nossas licenças concedem somente
-    permissões relativas a direito de autor e direitos conexos, e
-    certos outros direitos que um licenciante tenha autoridade para
-    conceder. A utilização do material licenciado pode ainda ser
-    restringida por outras razões, incluindo porque terceiros têm
-    direito de autor e direitos conexos, ou outros direitos sobre o
-    material. Um licenciante pode fazer pedidos especiais, como
-    solicitar que todas as alterações sejam marcadas ou descritas.
-    Embora não exigido pelas nossas licenças, é recomendado que você
-    respeite esses pedidos quando razoáveis. Mais considerações para o
-    público: wiki.creativecommons.org/Considerations_for_licensees.
-
-=======================================================================
-
 Licença Pública Creative Commons Atribuição 4.0 Internacional
 
 Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e
@@ -425,24 +363,3 @@ Cláusula 8 -- Interpretação.
      imunidades aplicáveis ao Licenciante ou a Você, incluindo os
      resultantes dos processos legais de qualquer jurisdição ou
      autoridade.
-
-=======================================================================
-
-A Creative Commons não é parte das suas licenças públicas. Não
-obstante, a Creative Commons pode eleger aplicar uma das suas licenças
-públicas a material por si publicado e, nesses casos, será considerada
-um “Licenciante". O texto das licenças públicas Creative Commons é
-dedicado ao domínio público sob a CC0_Dedicação_ao_Domínio_Público.
-Exceto para o fim limitado de indicar que o material é compartilhado
-sob uma licença pública Creative Commons ou de outra forma permitida
-pelas politicas da Creative Commons publicadas em creativecommons.org/
-policies, a Creative Commons não autoriza a utilização da marca
-"Creative Commons" ou de qualquer outra marca ou logo da Creative
-Commons sem o seu prévio consentimento escrito, incluindo, mas não se
-limitando a, em conexão com qualquer modificação não autorizada de
-qualquer uma das suas licenças públicas ou de quaisquer outros pactos,
-entendimentos ou acordos relativos à utilização de material
-licenciado. Para evitar dúvidas, este parágrafo não faz parte das
-licenças públicas.
-
-Para comunicar com a Creative Commons, visite creativecommons.org.

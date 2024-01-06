@@ -77,8 +77,10 @@ Inclua todas as pessoas em uma interação, respeitando e facilitando sua partic
 - enfrentarem outros desafios para participar.
 
 Pense em como você pode facilitar maneiras alternativas de contribuir ou participar. Se você estiver dominando uma discussão, dê um passo atrás. Abra caminho para outras vozes e escute atentamente.
+
 ### Compreenda as diferentes perspectivas
 Nosso objetivo não é “vencer” cada divergência ou discussão. É mais produtivo estar aberto a ideias que melhoram as nossas próprias ideias. Esforce-se para ser um exemplo de pensamento inclusivo. “Vencemos” quando as diferentes perspectivas enriquecem e fortalecem o nosso trabalho.
+
 ### Valorize e adapte-se às nossas semelhanças e diferenças
 Somos de muitas culturas e têm experiências diversas. As diferenças culturais podem abranger tudo, desde práticas religiosas oficiais até hábitos pessoais e roupas. Seja respeitoso com as pessoas que adotam diferentes práticas culturais, atitudes e crenças. Trabalhe para eliminar seus próprios preconceitos, tendências e práticas discriminatórias. Pense nas necessidades dos outros do ponto de vista deles. Refira-se às pessoas do modo que elas preferem (incluindo pronomes) e o tom de voz apropriado. Respeite o direito das pessoas à privacidade e confidencialidade. Esteja aberto para aprender e informar, bem como procurar informar-se. Não é realista esperar que pessoas conheçam as práticas culturais de todos os grupos étnicos e culturais, mas precisamos reconhecer que a cultura nativa de cada um é apenas parte das interações positivas.
 ### Lidere pelo exemplo
@@ -86,10 +88,13 @@ Ao combinar suas ações com suas palavras, você se torna uma pessoa que outrem
 
 ## Comportamentos que não devem ser tolerados
 Os seguintes comportamentos são considerados inaceitáveis, de acordo com este código de conduta.
+
 ### Violência e ameaças de violência
 Violência e ameaças de violência não são aceitáveis, sejam on-line ou off-line. Isso inclui incitação à violência contra qualquer pessoa, inclusive incentivando a autoagressão.
+
 ### Ataques pessoais
 Conflitos inevitavelmente surgem, mas a frustração nunca deverá transformar-se em um ataque pessoal. Não é permitido o insulto, humilhação ou menosprezo. Atacar alguém por suas opiniões, crenças e ideias não é aceitável. É importante falar diretamente quando discordamos e quando pensamos que precisamos melhorar. No entanto, essas discussões precisam ser conduzidas de maneira respeitosa e profissional, mantendo o foco no assunto em questão.
+
 ### Linguagem pejorativa
 Linguagem prejudicial ou ofensiva relacionada a:
 - histórico de vida
@@ -114,14 +119,17 @@ não é aceitável. Isso inclui intencionalmente referir-se a uma pessoa por um 
 
 ### Contato físico ou atenção sexual inoportunos
 A atenção sexual e o contato físicos indesejados não são aceitáveis. Isso inclui piadas, imagens e comentários sexualizados em interações, comunicações ou materiais de apresentação, toques e apalpações inadequados, bem como avanços sexuais. Isso inclui tocar uma pessoa sem permissão, incluindo áreas sensíveis. Isso também inclui bloquear fisicamente ou intimidar uma pessoa. Contato físico ou contato físico simulado (por exemplo, emojis inapropriados) sem consentimento não são aceitáveis. Isso inclui o compartilhamento e a distribuição de imagens ou texto sexualizados.
+
 ### Comportamento perturbador
 A interrupção constante de atividades não será tolerada. Isso inclui:
 - Cortar ou interromper a mediação.
 - Tomar bebidas alcoólicas ou usar drogas recreativas em excesso, ou pressionar outrem a fazê-lo.
 - Fazer comentários pejorativos sobre quem se abstém de bebidas alcoólicas ou outras substâncias, pressionar as pessoas para beberem, falar sobre sua abstinência ou preferências ou pressioná-las para beberem.
 - Influenciar ações em grupo que causam hostilidade na atividade.
+- 
 ### Influenciar comportamento inaceitável
 Trataremos os atos que influenciam ou orientam esse comportamento da mesma maneira que tratamos nas atividades, e as mesmas consequências serão aplicadas.
+
 ## Consequências do comportamento inaceitável
 O mau comportamento de qualquer integrante, incluindo autoridades de tomada de decisão, não será tolerado. Os esforços intencionais de excluir pessoas (exceto como parte de uma consequência das diretrizes ou outras ações oficiais) das atividades da Casa Hacker não são aceitáveis e serão tratados adequadamente.
 

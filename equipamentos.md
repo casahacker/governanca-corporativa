@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equipamentos
-nav_order: 6
+nav_order: 5
 ---
 Aprovada
 {: .label .label-blue }

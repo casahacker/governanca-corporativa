@@ -3,7 +3,11 @@ layout: default
 title: Compras
 nav_order: 2
 ---
+Aprovada
+{: .label .label-blue }
 
+Vigente
+{: .label .label-green }
 # Política de Compras
 {: .no_toc }
 
@@ -17,10 +21,10 @@ Garantir, durante o processo de aquisição de bens e serviços e gestão da cad
 {:toc}
 
 ---
-## 1. Objetivo
+## Objetivo
 Garantir, durante o processo de aquisição de bens e serviços e gestão da cadeia de fornecedores e prestadores de serviços, a construção de relacionamento ético e transparente buscando qualidade, impacto social e sustentabilidade. Este relacionamento deve assegurar a perenidade e legalidade das operações atividades, além de estimular a responsabilidade socioambiental e inovação de forma contínua e evolutiva.
 
-## 2. Abrangência
+## Abrangência
 
 A presente política aplica-se a todas as compras que incluem: 
 * Compras de mercadorias, materiais e serviços;
@@ -32,14 +36,14 @@ A política de compras é de aplicação obrigatória a todos os membros da Asse
 
 Todos as atuais e futuros empreendimentos e negócios da Casa Hacker devem definir os seus direcionamentos a partir das orientações previstas na presente Política, considerando as necessidades específicas e os aspectos legais e regulamentares a que estão sujeitas.
 
-## 3. Diretrizes
+## Diretrizes
 1. Apresentamos nesta política orientações institucionais para a contratação de serviços de terceiros (Compras), tanto para serviços como para produtos. A Casa Hacker reconhece a importância de ter a capacidade de promover processos de compras e contratações que garantam integridade e transparência.
 2. A Política presente neste documento será vista como instrumento de execução e acompanhamento de projetos, sendo conhecida e entendida por todas as Pessoas e aprimorada sempre que possível.
 3. Somente as pessoas jurídicas com capacidade técnica são selecionadas a apresentar suas condições comerciais, diante de um produto ou serviço previamente identificado, quantificado, especificado com período de tempo definido ao seu cumprimento, para que os participantes possam planejar a formação de seu preço com base em premissas claras e disponíveis a todos os envolvidos.
 4. Esta política tem por objetivo construir e qualificar o conjunto de procedimentos administrativos e financeiros institucionais, bem como ampliar sua transparência e facilitar seu cumprimento. Para salvaguardar direitos das partes, a Casa Hacker adota a formalização da compra por meio de (i) contrato padrão e/ou (ii) ordem de compra, nas condições operacionais, técnicas e comerciais, na transparência e sustentabilidade dos negócios.
 5. O cumprimento das orientações a seguir é fundamental, sob risco da não liberação de recursos institucionais para pagamento dos serviços, em caso de descumprimento. O processo de compras obedecerá a princípios rígidos de equidade e transparência.
 
-## 4. Seleção de fornecedores
+## Seleção de fornecedores
 As diretrizes para seleção de fornecedores são as seguintes:
 1. Sempre buscar fornecedores que implementem boas práticas comerciais, sociais e ambientais;
 2. Procurar alcançar economias sem perder qualidade e eficiência;
@@ -67,7 +71,7 @@ Fica dispensado o procedimento de Seleção de Fornecedores, mediante autorizaç
 5. Locação de imóveis e espaços de trabalho ou para eventos;
 6. Em caráter de emergência, quando caracterizada a imediata necessidade de utilização de bem ou serviço, a urgência de atendimento de situação que possa ocasionar prejuízos a Casa Hacker ou comprometer a segurança de pessoas, obras, serviços ou equipamentos.
 
-## 5. Homologação de fornecedores
+## Homologação de fornecedores
 A homologação de fornecedores garantirá que os mesmos atendam aos requisitos da Casa Hacker de regularidade fiscal, tributária, cadastral e de licenças para exercer o fornecimento de bens e serviços, quando aplicável.
 
 Os requisitos para homologação de fornecedores são:
@@ -78,7 +82,7 @@ Os requisitos para homologação de fornecedores são:
 5. Licenças e autorizações emitidas por autoridades regulamentadoras (em caso de fornecimento de bens e serviços regulamentados por Lei);
 6. Ter uma conta corrente ou conta de pagamento ativa em uma instituição financeira brasileira.
 
-## 6. Modalidades e Limites de Seleção
+## Modalidades e Limites de Seleção
 ### Compras de baixo valor
 Inferior a meio salário mínimo nacional (Brasil) que serão realizados mediante pesquisa simples de preços no mercado, **não será necessária apresentação de tomada de preços**, no entanto, os valores deverão corresponder aos praticados no mercado;
 ### Compras de médio valor
@@ -86,14 +90,14 @@ Superior a meio salário mínimo nacional e de até 6 (seis) salários mínimos 
 ### Compras de alto valor
 Superior a 6 (seis) salários mínimos nacional (Brasil) que serão realizados **mediante apresentação de Termo de Referência da contratação**, pesquisa de preços no mercado envolvendo, no mínimo, 03 (três) cotações com fornecedores, devendo ser apresentadas as propostas comerciais e orçamentos emitidos pelos fornecedores no ato da Solicitação de Compras e justificativas, quando aplicável.
 
-## 7. Contratação de Serviços
+## Contratação de Serviços
 1.  O solicitante deverá especificar criteriosamente os serviços a serem executados por meio da apresentação de Termo de Referência, selecionar o prestador de serviços, considerando a idoneidade, a experiência e a especialização do contratado, dentro da respectiva área;
 2. O Termo de Referência deve conter uma descrição precisa dos serviços a serem prestados, incluindo contexto da contratação, objeto da contratação, especificações técnicas, requisitos mínimos, prazos de execução e suas etapas, requisitos para homologação, e critérios de desempenho, quando aplicável.
 3. Será elaborado contrato que estabelecerá, com precisão as condições para a execução do serviço devendo apresentar ainda: descrição dos produtos específicos que serão gerados a partir da prestação dos serviços contratados; cronograma de atividades contendo a descrição e prazos de execução de cada etapa, quando houver; previsão de apresentação de relatórios parciais, quando for o caso, e final, sobre o andamento e/ou a entrega dos serviços; cláusula condicionando a liberação dos pagamentos à verificação dos serviços prestados e à emissão de documento fiscal.
 4. Para que a apresentação e elaboração de Termo de Referência possa ser dispensada, é imprescindível que a proposta comercial contemple os elementos essenciais do Termo de Referência.
 5. A verificação da conformidade dos serviços prestados com os contratados será realizada pelo gestor do contrato, o qual procederá à conferência destes a partir dos dispositivos do contrato de prestação de serviços e dos relatórios elaborados pelo prestador, cabendo-lhe rejeitar os serviços que não correspondam às condições e especificações estabelecidas.
 
-## 8. Contratos
+## Contratos
 Sempre que uma compra atender a um ou mais dos critérios a seguir, a área de Compras solicitará a elaboração e assinatura de contrato ou equivalente:
 1. Contratação de serviços recorrentes cujo valor total seja igual ou superior a dois salários mínimos nacionais;
 2. Licenciamento de conteúdo e/ou cessão de  propriedade intelectual;
@@ -103,10 +107,10 @@ Sempre que uma compra atender a um ou mais dos critérios a seguir, a área de C
 
 Os contratos redigidos de acordo com o Direito Civil brasileiro e com a Teoria Geral dos Contratos.
 
-## 9. Fluxo do Processo e Emissão da Ordem de Compra
+## Fluxo do Processo e Emissão da Ordem de Compra
 XXXX
 
-## 10. Documentação fiscal válida
+## Documentação fiscal válida
 Os documentos fiscais válidos nas operações de Compras são:
 1. **Nota Fiscal Eletrônica (NF-e):** Documento digital emitido e armazenado eletronicamente, utilizado para registrar operações de venda de produtos ou serviços.
 2. **Nota Fiscal de Consumidor Eletrônica (NFC-e):** Semelhante à NF-e, porém específica para operações de venda no varejo ao consumidor final.
@@ -123,22 +127,16 @@ Os documentos fiscais válidos nas operações de Compras são:
 13. **Fatura de Registro:** Documento de registro e renovação de domínios que tenham o ".br".
 14. **Nota Fiscal de Telecomunicações (NFCom):** Emitida por prestadores de serviços de telecomunicações.
 
-## 11. Prazos (SLA)
+## Prazos (SLA)
 - Emissão de Ordem de Compra: 5 dias úteis
 - Pagamento: 5 dias úteis
 - Informações e suporte: 5 dias úteis
 
-## 12. Disposições finais
+## Disposições finais
 1. A Diretoria Executiva poderá ordenar, a qualquer tempo, auditorias internas nos processos de compras e de contratação;
 2. Quando não for possível realizar o número de cotações estabelecidas nesta Política a área de Compras autorizará a compra com o número de cotações que houver, mediante justificativa;
 3. Fica vedada a contratação de Fornecedores cujos administradores e sócios sejam parentes, até terceiro grau, de conselheiros, diretores ou gerentes da Casa Hacker;
 4. Os casos omissos nesta Política serão decididos pela Diretoria Executiva da Casa Hacker submetendo-se suas decisões à ratificação do Conselho de Administração.
 
-## 13. Vigência
+## Vigência
 A presente Política entra em vigor a contar de sua aprovação permanecendo válida e aplicável até seja alterada.
-
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }

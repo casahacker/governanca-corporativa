@@ -169,5 +169,5 @@ Garantir, durante o processo de aquisição de bens e serviços e gestão da cad
 4. A legislação brasileira se aplicará a todos litígios referentes aos Pedidos feitos pela Casa Hacker; e
 5 O presente instrumento não gera nenhuma forma de representação, associação, parceria o cria qualquer tipo de vínculo entre as partes, seus funcionários, prepostos ou terceiros em relação a Casa Hacker, a qualquer título, permanecendo o Fornecedor como único responsável.
 
-## 13. Foro de eleição
+## Foro de eleição
 1. Fica eleito o foro da Comarca de São Paulo, Estado de São Paulo para dirimir quaisquer controvérsias e/ou litígios decorrentes do presente instrumento, excluindo-se quaisquer outros, por mais privilegiados que sejam.

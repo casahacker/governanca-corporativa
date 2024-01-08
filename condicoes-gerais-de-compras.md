@@ -18,35 +18,23 @@ Garantir, durante o processo de aquisição de bens e serviços e gestão da cad
 
 ---
 
-## 1. Premissas
-1.1. O objeto do presente Termo consiste em regular as “Condições Gerais de Compras” pelo Fornecedor à Casa Hacker, sem exclusividade, dos produtos descritos no Pedido de Compra, Termo de Referência, Contrato e Anexos emitidos e/ou a serem emitidos;
-
-1.2. O presente instrumento não representa garantia de contratação, tratando-se apenas de um documento que contém as condições gerais e iniciais de fornecimento a serem cumpridas pelo Fornecedor, caso este venha a ser contratado pela Casa Hacker;
-
-1.3. Ocorrendo a nomeação do Fornecedor pela Casa Hacker, em processo de compras, além das obrigações contidas neste Termo, o Fornecedor deverá atender rigorosamente as especificações técnicas dos produtos, valores, quantidades, forma, local e prazos de entrega definidos pela Casa Hacker em seu Pedido de Compra, Termos de Referência, Contrato e Anexos a serem firmados pelas PARTES;
-
-1.4. Caso ocorra qualquer divergência/discrepância entre estas Condições, Termo de Referência, Contrato e o Pedido de Compras, prevalecerão as condições descritas no Contrato ou Pedido de Compras;
-
-1.5. O Fornecedor não está autorizado a fornecer quaisquer materiais adicionais sem que os mesmos tenham sido previamente autorizados de maneira expressa pela Casa Hacker, devendo assumir todo o ônus, caso assim o faça;
-
-1.6. Da mesma forma, o Fornecedor também não está autorizado a realizar qualquer ajuste ou alteração nas especificações técnicas dos materiais a serem fornecidos, sem que estes tenham sido previamente autorizados de maneira expressa pela Casa Hacker, devendo assumir todo o ônus, caso assim o faça;
-
-1.7. As quantidades e o prazo de entrega do Produto e/ou Serviço podem sofrer variações, de acordo com as necessidades e demandas da Casa Hacker, devendo o Fornecedor garantir a continuidade do fornecimento nas quantidades e prazos solicitados;
-
-1.8. Estas Condições Gerais de Compra regularão todos os pedidos relacionados a produtos e/ou serviços, colocados pela Casa Hacker junto ao Fornecedor;
-
-1.9. O pedido será formalizado via e-mail e/ou de mensageria instantânea, e a concordância do Fornecedor implicará na aceitação integral das presentes Condições;
-
-1.10. Estas Condições prevalecem sobre qualquer outro documento anterior firmado entre as partes, quer verbais ou escritas; e
-
-1.11. O Fornecedor concorda e adere a todas as políticas previstas no site: https://www.casahacker.org, sendo que também é responsável pelo cumprimento através de seus prepostos, colaboradores, funcionários, representantes, subcontratados, entre outros que façam parte, direta ou indiretamente, da execução da Prestação de Serviços.
+## Premissas
+1. O objeto do presente Termo consiste em regular as “Condições Gerais de Compras” pelo Fornecedor à Casa Hacker, sem exclusividade, dos produtos descritos no Pedido de Compra, Termo de Referência, Contrato e Anexos emitidos e/ou a serem emitidos;
+1. O presente instrumento não representa garantia de contratação, tratando-se apenas de um documento que contém as condições gerais e iniciais de fornecimento a serem cumpridas pelo Fornecedor, caso este venha a ser contratado pela Casa Hacker;
+1. Ocorrendo a nomeação do Fornecedor pela Casa Hacker, em processo de compras, além das obrigações contidas neste Termo, o Fornecedor deverá atender rigorosamente as especificações técnicas dos produtos, valores, quantidades, forma, local e prazos de entrega definidos pela Casa Hacker em seu Pedido de Compra, Termos de Referência, Contrato e Anexos a serem firmados pelas partes;
+1. Caso ocorra qualquer divergência/discrepância entre estas Condições, Termo de Referência, Contrato e o Pedido de Compras, prevalecerão as condições descritas no Contrato ou Pedido de Compras;
+1. O Fornecedor não está autorizado a fornecer quaisquer materiais adicionais sem que os mesmos tenham sido previamente autorizados de maneira expressa pela Casa Hacker, devendo assumir todo o ônus, caso assim o faça;
+1. Da mesma forma, o Fornecedor também não está autorizado a realizar qualquer ajuste ou alteração nas especificações técnicas dos materiais a serem fornecidos, sem que estes tenham sido previamente autorizados de maneira expressa pela Casa Hacker, devendo assumir todo o ônus, caso assim o faça;
+1. As quantidades e o prazo de entrega do Produto e/ou Serviço podem sofrer variações, de acordo com as necessidades e demandas da Casa Hacker, devendo o Fornecedor garantir a continuidade do fornecimento nas quantidades e prazos solicitados;
+1. Estas Condições Gerais de Compra regularão todos os pedidos relacionados a produtos e/ou serviços, colocados pela Casa Hacker junto ao Fornecedor;
+1. O pedido será formalizado via e-mail e/ou de mensageria instantânea, e a concordância do Fornecedor implicará na aceitação integral das presentes Condições;
+1. Estas Condições prevalecem sobre qualquer outro documento anterior firmado entre as partes, quer verbais ou escritas; e
+1. O Fornecedor concorda e adere a todas as políticas previstas no site: https://www.casahacker.org, sendo que também é responsável pelo cumprimento através de seus prepostos, colaboradores, funcionários, representantes, subcontratados, entre outros que façam parte, direta ou indiretamente, da execução da Prestação de Serviços.
 
 ## 2. Cessão e Subcontratação
-2.1. O Fornecedor não poderá ceder ou transferir o pedido de compras, no todo ou em parte, assim como suas obrigações, direitos e garantias dele decorrentes, sem o expresso e prévio consentimento da Casa Hacker;
-
-2.2. O Fornecedor se obriga a não subcontratar o Pedido junto a terceiros, seja no todo ou em parte, sem anuência prévia por escrito da Casa Hacker, que se reserva o direito de solicitar qualquer documentação relacionada a esta subcontratação. Em qualquer hipótese, o Fornecedor será responsável por todos e quaisquer atos, omissões e inadimplementos ocasionados pelos subcontratados; e
-
-2.3. Em caso de subcontratação aceita pela Casa Hacker, o Fornecedor permanecerá o único e exclusivo responsável pelos atos ou omissões de sua SUBCONTRATADA, que venham a prejudicar o perfeito e completo cumprimento das obrigações estabelecidas no Pedido de Compras. A Casa Hacker não responderá por compromissos que o Fornecedor venha a assumir com SUBCONTRATADOS ou terceiros.
+1. Fornecedor não poderá ceder ou transferir o pedido de compras, no todo ou em parte, assim como suas obrigações, direitos e garantias dele decorrentes, sem o expresso e prévio consentimento da Casa Hacker;
+1. O Fornecedor se obriga a não subcontratar o Pedido junto a terceiros, seja no todo ou em parte, sem anuência prévia por escrito da Casa Hacker, que se reserva o direito de solicitar qualquer documentação relacionada a esta subcontratação. Em qualquer hipótese, o Fornecedor será responsável por todos e quaisquer atos, omissões e inadimplementos ocasionados pelos subcontratados; e
+1. Em caso de subcontratação aceita pela Casa Hacker, o Fornecedor permanecerá o único e exclusivo responsável pelos atos ou omissões de sua SUBCONTRATADA, que venham a prejudicar o perfeito e completo cumprimento das obrigações estabelecidas no Pedido de Compras. A Casa Hacker não responderá por compromissos que o Fornecedor venha a assumir com subcontratados ou terceiros.
 
 ## 3. Fornecimento de serviços e/ou produtos
 3.1. O Fornecedor se obriga a prestar os serviços solicitados, e/ou entregar os produtos adquiridos, de acordo com o Pedido, Termo de Referência e estas Condições, utilizando-se das boas práticas de mercado, bem como observando os Princípios de Conduta referenciados neste documento;

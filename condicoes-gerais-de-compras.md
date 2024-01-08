@@ -46,19 +46,12 @@ Garantir, durante o processo de aquisição de bens e serviços e gestão da cad
 
 ## Transporte e entrega 
 1. Salvo disposto em contrário no Pedido, o Fornecedor será responsável pela contratação dos serviços de transporte necessários para a entrega dos produtos adquiridos pela Casa Hacker, devendo zelar pela observância de todas as normas relacionadas ao transporte de produtos, em especial, as normas relativas à segurança e limitações de peso no transporte de cargas;
-
 1. O Fornecedor é responsável pela entrega ou conclusão dos serviços nas datas estabelecidas no Pedido;
-
 1. O Fornecedor não está autorizado a entregar o produto ou a prestar os serviços antes do prazo estabelecido no Pedido, sem a autorização prévia e por escrito emitida pela Casa Hacker. O Fornecedor deverá assumir todas as despesas decorrentes de qualquer entrega adiantada;
-
 1. O prazo de entrega dos produtos ou serviços será contado em dias corridos, a partir da data em que o Pedido for aceito;
-
 1. Ocorrendo atrasos cujos motivos não sejam aceitos pela Casa Hacker, poderá esta última optar pelo cancelamento do Pedido, quando então, estarão rescindidos os serviços, sem que haja incidência de multa à Casa Hacker.
-
 1. Na data da entrega dos produtos e/ou conclusão dos serviços, o Fornecedor deverá apresentar toda a documentação administrativa e técnica indispensável para o uso dos produtos, tais como catálogos de peças sobressalentes, manuais com instruções de operação e manutenção, projetos técnicos ou esquemas dos sistemas mecânicos, hidráulicos, pneumáticos, elétricos e eletrônicos, instruções para instalação, desenhos, listas de componentes de maior desgaste e consumo, ainda que tal obrigação não tenha sido estabelecida no Pedido;
-
 1. Os produtos serão entregues em sua embalagem marcada e rotulada, de acordo com a lei e os regulamentos aplicáveis, de forma a garantir a ótima preservação, identificação e segurança dos produtos, pessoas e bens; e
-
 1. Exceto se de outra forma estipulada no Pedido, o recebimento dos produtos/serviços será efetuado sempre nas instalações da Casa Hacker, nos dias úteis e em horário comercial. Nenhuma entrega será recebida fora deste período. Os serviços de recepção da Casa Hacker poderão recusar materiais cujo processo de fornecimento não obedeça às normas aqui estipuladas, bem como quando o prazo de fornecimento não for cumprido. Na hipótese de recusa, não haverá qualquer ônus para a Casa Hacker.
 
 ## Inspeção e aceitação ou recusa 

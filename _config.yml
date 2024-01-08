@@ -47,7 +47,7 @@ enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "Voltar ao início"
 
-footer_content: "&copy; 2018–2024 Partes deste conteúdo possuem direitos reservados por pessoas da Casa Hacker. <a href=\"https://creativecommons.org/licenses/by/4.0/deed.pt-br\">Disponível sob licença CC BY 4.0.</a>."
+footer_content: "&copy; 2018–2024 Partes deste conteúdo possuem direitos reservados por pessoas da Casa Hacker. <a href=\"https://creativecommons.org/licenses/by/4.0/deed.pt-br\">Disponível sob licença CC BY 4.0</a>."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

@@ -108,7 +108,7 @@ Sempre que uma compra atender a um ou mais dos critérios a seguir, a área de C
 4. Quando, pela natureza da contratação for necessário exigir garantias ou impor multas e sanções contratuais;
 5. Outros casos, sempre que solicitado pela área de Compras, Finanças, Assuntos Jurídicos ou pela Diretoria Executiva.
 
-Os contratos redigidos de acordo com o Direito Civil brasileiro, a Teoria Geral dos Contratos e as [Condições Gerais de Compras](/condicoes-gerais-de-compras.html).
+Os contratos redigidos de acordo com o Direito Civil brasileiro, a Teoria Geral dos Contratos e as [Condições Gerais de Compras](governanca-corporativa/condicoes-gerais-de-compras.html).
 
 ## Fluxo do Processo
 

@@ -83,6 +83,7 @@ Nosso objetivo não é “vencer” cada divergência ou discussão. É mais pro
 
 ### Valorize e adapte-se às nossas semelhanças e diferenças
 Somos de muitas culturas e têm experiências diversas. As diferenças culturais podem abranger tudo, desde práticas religiosas oficiais até hábitos pessoais e roupas. Seja respeitoso com as pessoas que adotam diferentes práticas culturais, atitudes e crenças. Trabalhe para eliminar seus próprios preconceitos, tendências e práticas discriminatórias. Pense nas necessidades dos outros do ponto de vista deles. Refira-se às pessoas do modo que elas preferem (incluindo pronomes) e o tom de voz apropriado. Respeite o direito das pessoas à privacidade e confidencialidade. Esteja aberto para aprender e informar, bem como procurar informar-se. Não é realista esperar que pessoas conheçam as práticas culturais de todos os grupos étnicos e culturais, mas precisamos reconhecer que a cultura nativa de cada um é apenas parte das interações positivas.
+
 ### Lidere pelo exemplo
 Ao combinar suas ações com suas palavras, você se torna uma pessoa que outrem querem seguir. Suas ações influenciam comportamentos e respostas com resultados esperados pela nossa organização. Projete seu trabalho para inclusão. Seja responsável e responsabilize-se pelos comportamentos inclusivos. Tome decisões que tenham como base a melhor contribuição possível para a missão da Casa Hacker.
 
@@ -126,7 +127,7 @@ A interrupção constante de atividades não será tolerada. Isso inclui:
 - Tomar bebidas alcoólicas ou usar drogas recreativas em excesso, ou pressionar outrem a fazê-lo.
 - Fazer comentários pejorativos sobre quem se abstém de bebidas alcoólicas ou outras substâncias, pressionar as pessoas para beberem, falar sobre sua abstinência ou preferências ou pressioná-las para beberem.
 - Influenciar ações em grupo que causam hostilidade na atividade.
-- 
+
 ### Influenciar comportamento inaceitável
 Trataremos os atos que influenciam ou orientam esse comportamento da mesma maneira que tratamos nas atividades, e as mesmas consequências serão aplicadas.
 
@@ -140,6 +141,7 @@ Os relatos de assédio/discriminação serão pronta e cuidadosamente investigad
 A equipe da Casa Hacker será responsabilizada, além destas diretrizes, perante a legislação quando aplicável. Ao violar estas diretrizes, a equipe da Casa Hacker estará sujeita a outras consequências como a rescisão do contrato de trabalho e/ou prestação de serviços, voluntário ou não. Para contratantes ou fornecedores, a violação destas diretrizes afetam a continuidade ou renovação do contrato.
 
 Além disso, o abuso do processo de denúncia por qualquer participante será considerado como violação destas diretrizes e estará suscetível às mesmas consequências. As denúncias falsas, especialmente para retaliar ou excluir, não serão aceites ou toleradas.
+
 ## Denúncias
 Se você está enfrentando um comportamento inaceitável que não é tolerado, conforme descrito acima, reporte pelo canal de denúncia e com a pessoa responsável pela atividade ou espaço da Casa Hacker. Quando seu caso é encaminhado ao canal de denúncia chega ao Compliance Office. Após receber uma descrição concisa da sua situação, revisaremos e determinaremos os passos a seguir. Além de realizar as investigações, podemos fornecer uma variedade de recursos, de uma consulta privada a outros recursos da comunidade. Envolveremos outras pessoas apenas quando for necessário para tratar adequadamente cada situação.
 
@@ -149,7 +151,6 @@ Se você acreditar que foi injustamente acusado de violar estas diretrizes, siga
 
 ## Quem contatar
 Compliance Office, canais disponíveis:
-
 - Canal de Denúncias (uso interno e externo): compliance.casahacker.org
 - E-mail (uso interno e externo): compliance@casahacker.org
 - Jira Service Management (uso interno): jira.casahacker.org/servicedesk

@@ -168,7 +168,7 @@ As denúncias receberão uma confirmação de recebimento pelo canal de denúnci
 Encorajamos a fazerem perguntas sobre estas diretrizes. Se você estiver organizando um evento ou atividade, procure dicas para estabelecer a inclusão para seu evento, atividade ou espaço. Sua opinião é bem-vinda e você sempre receberá uma resposta em até 72 horas úteis ao entrar em contato canal de denúncia.
 
 ## Modificações destas diretrizes
-A Casa Hacker pode alterar esta política ao longo do tempo e também pode variar os procedimentos que estabelece, quando apropriado, em um caso particular. A sua concordância em cumprir com estas diretrizes será considerada um acordo sobre quaisquer alterações. Caso a Casa Hacker modifique as diretrizes, a versão atualizada pode ser encontrada em https://casahacker.org.
+A Casa Hacker pode alterar esta política ao longo do tempo e também pode variar os procedimentos que estabelece, quando apropriado, em um caso particular. A sua concordância em cumprir com estas diretrizes será considerada um acordo sobre quaisquer alterações. Caso a Casa Hacker modifique as diretrizes, a versão atualizada pode ser encontrada em [https://casahacker.org](https://casahacker.org).
 
 ## Vigência
 A presente Política entra em vigor a contar da data de sua aprovação permanecendo válida e aplicável até seja alterada.

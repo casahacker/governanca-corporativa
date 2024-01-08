@@ -72,9 +72,9 @@ Garantir, durante o processo de aquisição de bens e serviços e gestão da cad
 
 ## Condições financeiras 
 1. O Fornecedor receberá o Pedido por e-mail ou mensageria instantânea, e terá o prazo de 48h (quarenta e oito) horas para se manifestar. Compromete-se o Fornecedor a cumprir, por ocasião do atendimento do Pedido, o seguinte:
-A - Mencionar o número da Ordem de Compra e informações de pagamento nas notas fiscais a ele relacionados;
-B - As Notas Fiscais devem ser emitidas em nome da Casa Hacker, incluindo endereço e número do CNPJ indicados;
-C - As Notas Fiscais, Faturas e Duplicatas referentes ao Pedido não poderão ser negociadas, cedidas, transferidas ou endossadas a terceiros sem a prévia e expressa autorização da Casa Hacker, sob pena, da suspensão justificada do pagamento; e
+  - Mencionar o número da Ordem de Compra e informações de pagamento nas notas fiscais a ele relacionados;
+  - As Notas Fiscais devem ser emitidas em nome da Casa Hacker, incluindo endereço e número do CNPJ indicados;
+  - As Notas Fiscais, Faturas e Duplicatas referentes ao Pedido não poderão ser negociadas, cedidas, transferidas ou endossadas a terceiros sem a prévia e expressa autorização da Casa Hacker, sob pena, da suspensão justificada do pagamento; e
 2. Os preços são considerados fixos e irreajustáveis, salvo expressa disposição em contrário e por escrito, em concordância com fórmulas de reajustamento, propostas pelo Fornecedor e expressamente aceitas pela Casa Hacker;
 3. Ressalvado o que estiver disposto em contrário no Pedido/Termo de Referência/Contrato/Proposta, subentendese que nos preços ajustados já estão inclusos todos os tributos, despesas de embalagem, transportes ou quaisquer outras;
 4. A Casa Hacker não se responsabiliza por multas ou apreensões de materiais cujos documentos obrigatórios contenham falhas, vícios de preenchimento ou omissões de qualquer exigência que motivarem sanções fiscais ou legais de qualquer natureza, bem como multas e sanções decorrentes a agressão ao meio ambiente;
@@ -82,19 +82,18 @@ C - As Notas Fiscais, Faturas e Duplicatas referentes ao Pedido não poderão se
 5. A responsabilidade da Casa Hacker quanto à execução do Pedido limita-se à satisfação do preço e extingue-se com o pagamento da obrigação daí gerada.
 6. O não atendimento de quaisquer das presentes Condições pode acarretar a justificada retenção parcial ou total do pagamento.
 7. Se a Nota Fiscal emitida pelo Fornecedor contiver qualquer erro, incorreção parcial ou total, tal como, mas não se limitando aos exemplificados indicados abaixo, o pagamento da Nota Fiscal poderá sofrer uma prorrogação da sua data de vencimento, sem qualquer acréscimo financeiro, podendo a Casa Hacker solicitar carta de correção e/ou cancelamento da nota.
-- Falta do número do pedido na Nota Fiscal do Fornecedor;
-- Classificação fiscal errada (NBM/CNAE);
-- Ausência de classificação fiscal;
-- Valor incorreto;
-- Condição de pagamento incorreta;
-- IPI incorreto;
-- ICMS incorreto;
-- Cálculo de imposto errado (comercialização/industrialização ou uso e consumo);
-- Desacordo completo com a cotação apresentada;
-- Quantidade incorreta;
-- Prazo de entrega; e
-- Qualquer outro que não expresso nos demais itens, ou seja, que apresente divergência no
-conteúdo (total ou parcial) quanto ao Pedido.
+  - Falta do número do pedido na Nota Fiscal do Fornecedor;
+  - Classificação fiscal errada (NBM/CNAE);
+  - Ausência de classificação fiscal;
+  - Valor incorreto;
+  - Condição de pagamento incorreta;
+  - IPI incorreto;
+  - ICMS incorreto;
+  - Cálculo de imposto errado (comercialização/industrialização ou uso e consumo);
+  - Desacordo completo com a cotação apresentada;
+  - Quantidade incorreta;
+  - Prazo de entrega; e
+  - Qualquer outro que não expresso nos demais itens, ou seja, que apresente divergência no conteúdo (total ou parcial) quanto ao Pedido.
 8. Os valores unitários, os subtotais, bem como as somas de Notas Fiscais com impostos inclusos devem coincidir com os enunciados no Pedido. Os impostos devem estar de acordo com as normas fiscais, bem como o Classificação Nacional de Atividades Econômicas – CNAE estar de acordo com o serviço prestado e habilitado junto à Receita Federal.
 
 ## Propriedade intelectual e uso da marca 
@@ -156,9 +155,9 @@ B - suspender ou reter pagamento independentemente de qualquer notificação;
 C - recuperar o montante ou valor de pagamento/ato impróprio, bem como qualquer multa ou despesa incorrida em conexão ao pagamento, ato ou omissão imprópria.
 11. A Casa Hacker não será responsável por ações, omissões, perdas, lucros cessantes ou danos decorrentes ou relacionados ao não cumprimento, pelo Fornecedor, de qualquer dessas leis ou desta cláusula anticorrupção ou relacionados à rescisão do Contrato, de acordo com esta cláusula, e o Fornecedor indenizará e eximirá a Casa Hacker de quaisquer dessas ações, omissões, perdas, lucros cessantes ou danos em geral.
 12. Para os fins da presente Cláusula, o Fornecedor declara neste ato que:
-A - não violou, viola ou violará quaisquer normas, regras, leis e tratados anticorrupção;
-B - já tem implementado ou se obriga a implementar durante a vigência deste Contrato um programa de conformidade e treinamento razoavelmente eficaz na prevenção e detecção de violações das regras anticorrupção e dos requisitos estabelecidos nesta Cláusula;
-C - tem ciência que qualquer atividade que viole as regras anticorrupção é proibida e que conhece as consequências legais decorrentes de tal violação.
+  - não violou, viola ou violará quaisquer normas, regras, leis e tratados anticorrupção;
+  - já tem implementado ou se obriga a implementar durante a vigência deste Contrato um programa de conformidade e treinamento razoavelmente eficaz na prevenção e detecção de violações das regras anticorrupção e dos requisitos estabelecidos nesta Cláusula;
+  - tem ciência que qualquer atividade que viole as regras anticorrupção é proibida e que conhece as consequências legais decorrentes de tal violação.
 13. As Partes se comprometem a não realizar qualquer tipo de ato discriminatório em suas contratações, respeitando a dignidade da pessoa humana e normas constitucionais vigentes do País;
 14. As Partes declaram coibir qualquer forma de assédio com relação aos seus funcionários e prestadores de serviços; e
 15. As Partes se obrigam a cumprir as leis em vigor no Brasil, inclusive aquelas relativas à saúde e segurança no trabalho, além de atender a legislação e as boas práticas ambientais.
@@ -172,6 +171,3 @@ C - tem ciência que qualquer atividade que viole as regras anticorrupção é p
 
 ## 13. Foro de eleição
 1. Fica eleito o foro da Comarca de São Paulo, Estado de São Paulo para dirimir quaisquer controvérsias e/ou litígios decorrentes do presente instrumento, excluindo-se quaisquer outros, por mais privilegiados que sejam.
-
-Vigente
-{: .label .label-green }

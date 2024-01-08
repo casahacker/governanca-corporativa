@@ -108,10 +108,37 @@ Sempre que uma compra atender a um ou mais dos critérios a seguir, a área de C
 4. Quando, pela natureza da contratação for necessário exigir garantias ou impor multas e sanções contratuais;
 5. Outros casos, sempre que solicitado pela área de Compras, Finanças, Assuntos Jurídicos ou pela Diretoria Executiva.
 
-Os contratos redigidos de acordo com o Direito Civil brasileiro e com a Teoria Geral dos Contratos.
+Os contratos redigidos de acordo com o Direito Civil brasileiro, a Teoria Geral dos Contratos e as [Condições Gerais de Compras](/condicoes-gerais-de-compras.html).
 
 ## Fluxo do Processo
-XXXX
+
+Etapa 1 - Definição do Item/Serviço
+1. Definição do Serviço/Item a ser contratado
+2. Elaboração do Termo de Referência (se aplicável)
+3. Tomada de Propostas e Preços
+4. Julgamento das Propostas
+5. Obtenção de dados da Pessoa Jurídica
+6. Preenchimento da Solicitação da [Solicitação de Compra](https://jira.casahacker.org/servicedesk/customer/portals)
+
+Etapa 2- Compra
+1. Análise Orçamentária
+2. Análise Técnica
+3. Análise Compra
+4. Cadastro do Fornecedor
+5. Aprovação
+6. Emissão do Pedido
+7. Elaboração do Contrato (Jurídico)
+8. Relização da Entrega ou Prestação de Serviço
+9. Emissão de Nota Fiscal pelo Fornecedor
+10. Envio ao Contas a Pagar (Finanças)
+11. Conclusão da Compra
+
+Etapa 3 - Pagamento
+1. Análise da Nota Fiscal
+2. Agendamento do Pagamento
+3. Efetivação do Pagamento
+4. Auditoria
+5. Conclusão do Pagamento
 
 ## Documentação fiscal válida
 Os documentos fiscais válidos nas operações de Compras são:

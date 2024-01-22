@@ -18,26 +18,26 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 ## Políticas
 ### Gerais
 - [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md)
-- [Compliance](#)
+- [Compliance](compliance.md) :white_check_mark:
 - [Anticorrupção](#)
-- [Compras e Contratações](compras.md)
-- [Reembolso](reembolso.md)
+- [Compras e Contratações](compras.md) :white_check_mark:
+- [Reembolso](reembolso.md) :white_check_mark:
 - [Viagens](#)
 - [Uber Empresas](#)
 - [Férias](#)
 - [Privacidade](#)
 - [Segurança da Informação](#)
-- [Equipamentos](equipamentos.md)
+- [Equipamentos](equipamentos.md) :white_check_mark:
 - [Assuntos Jurídicos (Legal Affairs)](#)
 
 ### Aplicável a Projetos, Programas e Eventos
 - [Lobby e Incidência Política](#)
-- [Proteção à Criança e ao Adolescente](políticas/protecao-a-criança-e-ao-adolescente.md)
+- [Proteção à Criança e ao Adolescente](protecao-a-criança-e-ao-adolescente.md) :white_check_mark:
 - [Informação de Atividades, Atendimento e Beneficiários](#)
 
 ### Aplicável a Fornecedores
-- [Código de Conduta do Fornecedor](politicas/codigo-de-etica-e-conduta-do-fornecedor.md)
-- [Condições Gerais de Compras](politicas/condicoes-gerais-de-compras.md)
+- [Código de Conduta do Fornecedor](codigo-de-etica-e-conduta-do-fornecedor.md) :white_check_mark:
+- [Condições Gerais de Compras](condicoes-gerais-de-compras.md) :white_check_mark:
 
 ### Em desenvolvimento
 - [Saúde e Segurança](#)

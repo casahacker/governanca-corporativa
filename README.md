@@ -17,7 +17,7 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 
 ## Políticas
 ### Gerais
-- [Código de Conduta da Comunidade](#)
+- [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md)
 - [Compliance](#)
 - [Anticorrupção](#)
 - [Compras e Contratações](compras.md)
@@ -27,7 +27,7 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 - [Férias](#)
 - [Privacidade](#)
 - [Segurança da Informação](#)
-- [Equipamentos](/politicas/equipamentos.md)
+- [Equipamentos](equipamentos.md)
 - [Assuntos Jurídicos (Legal Affairs)](#)
 
 ### Aplicável a Projetos, Programas e Eventos

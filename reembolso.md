@@ -39,28 +39,28 @@ Todos as atuais e futuros empreendimentos e negócios da Casa Hacker devem defin
 Para que uma despesa seja elegível a reembolso, é necessário que ela atenda aos seguintes requisitos:
 1. Despesa aprovada em orçamento do Centro de Custo ou Projeto ou Área Operacional relacionado;
 1. Valor total da despesa ser igual ou inferior a meio salário mínimo nacional (Brasil);
-1. Esteja relacionada às atividades operacionais ou de Projetos da Casa Hacker;
-1. Tenha a aprovação do Gestor do Projeto ou Área Operacional confirmando que a despesa está relacionada à uma atividade do Projeto ou Área Operacional;
+1. Esteja relacionada às atividades operacionais ou de Projetos;
+1. Ter aprovação do Gestor do Projeto ou Área Operacional confirmando que a despesa está relacionada à uma atividade válida e dentro do escopo;
 1. Documentação fiscal válida com CPF ou CNPJ da pessoa solicitante do reembolso e sem rasuras;
 1. Ter uma conta corrente ou conta de pagamento ativa em uma instituição financeira brasileira.
 
 ## Solicitação
-1. A Pessoa que incorreu na despesa deve preencher o formulário [Solicitação de Reembolso](https://docs.google.com/document/d/1S2lGIopqMHvcu_GhcAzcmzvCtBHYhr64c2hXS-R2L5Q/copy), exportar para PDF, assinar eletronicamente com plataformas de assinatura eletrônica, anexar a documentação fiscal e submeter à Finanças pelo no [Jira Service Management](https://jira.casahacker.org/servicedesk/customer/portals).
+1. A Pessoa que realizou na despesa deve preencher o formulário [Solicitação de Reembolso](https://docs.google.com/document/d/1S2lGIopqMHvcu_GhcAzcmzvCtBHYhr64c2hXS-R2L5Q/copy), exportar para PDF, assinar eletronicamente com plataformas de assinatura eletrônica, anexar a documentação fiscal e submeter à Finanças via [Jira Service Management](https://jira.casahacker.org/servicedesk/customer/portals) em até 7 dias úteis após a realização da despesa;
 2. A solicitação será analisada pelo Gestor da área correspondente em até 3 dias úteis. A aprovação deve ser baseada na conformidade com estas políticas e na relevância da despesa;
-4. A ausência de documentação fiscal válida, em conformidade com os [Documentos Válidos](governanca-corporativa/compras.md) da Política de Compras resultará na rejeição automática da solicitação do reembolso.
-5. Após a aprovação e a verificação de documentação, o pagamento do reembolso será processado pela área de Finanças.
+4. A ausência de documentação fiscal válida, em conformidade com os [Documentos Válidos](governanca-corporativa/compras.md) da Política de Compras e a submissão de solicitações de reembolso de despesas ocorridas há mais de 7 dias úteis resultará na rejeição automática da solicitação do reembolso;
+7. Após a aprovação e a verificação de documentação, o pagamento do reembolso será processado pela área de Finanças.
 
 ## Pagamento
 O reembolso será realizado por meio de transferência bancária para a conta corrente ou conta de pagamento do interessado. O prazo para o pagamento é de 5 dias úteis, contados a partir da data de aprovação da solicitação.
 
 ## Responsabilidades
-1. Os Gestores de cada área são responsáveis por revisar as solicitações de reembolso relacionadas às suas respectivas equipes.
+1. Os Gestores de cada área são responsáveis por revisar as solicitações de reembolso relacionadas às suas respectivas equipes;
 1. A área de Finanças é responsável por verificar a disponibilidade de orçamento, analisar a documentação fiscal e processar os pagamentos.
 
 ## Prazos (SLA)
-- Análise do Reembolso: +3 dias úteis
-- Pagamento: +5 dias úteis
-- Informações e Suporte: +5 dias úteis
+- Análise do Reembolso: +3 dias úteis;
+- Pagamento: +5 dias úteis;
+- Informações e Suporte: +5 dias úteis.
 
 ## Disposições finais
 Os casos omissos nesta Política serão decididos pela Diretoria Executiva da Casa Hacker submetendo-se suas decisões à ratificação do Conselho de Administração.

@@ -11,7 +11,7 @@ Vigente
 # Política de Reembolso
 {: .no_toc }
 
-Diretrizes para o reembolso de despesas incorridas por Pessoas beneficiárias ou à serviço da Casa Hacker.
+Diretrizes para o reembolso de despesas realizadas por Pessoas beneficiárias ou à serviço da Casa Hacker.
 
 {: .fs-6 .fw-300 }
 
@@ -23,7 +23,7 @@ Diretrizes para o reembolso de despesas incorridas por Pessoas beneficiárias ou
 
 ---
 ## Objetivo
-Estabelecer diretrizes para o reembolso de despesas incorridas por Pessoas beneficiárias ou à serviço da Casa Hacker, para garantir a transparência e a conformidade com as atividades operacionais e de projetos.
+Estabelecer diretrizes para o reembolso de despesas realizadas por Pessoas beneficiárias ou à serviço da Casa Hacker, para garantir a transparência e a conformidade com as atividades operacionais e de projetos.
 
 ## Abrangência
 

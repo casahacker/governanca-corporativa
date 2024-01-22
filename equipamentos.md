@@ -73,17 +73,17 @@ Em caso de computadores, como smartphones, laptops, desktops, tablets e outros d
 O transporte/deslocamento deve ser realizado em mochila impermeável e anti impacto para absorção de choque e para locais remotos somente quando for estritamente necessário.
 
 ## Suporte Técnico
-1. A solicitação de suporte técnico deve ser feito exclusivamente por meio do sistema designado.
+1. A solicitação de suporte técnico deve ser feito exclusivamente por meio do [Jira Service Management](https://jira.casahacker.org/servicedesk/customer/portals).
 2. Não se deve compartilhar informações sensíveis ou solicitações de suporte em canais não autorizados.
-3. Todas as solicitações de suporte devem ser devidamente registradas no sistema apropriado, fornecendo detalhes sobre o problema ou solicitação.
-4. Priorize uma descrição clara e completa do problema ao registrar uma solicitação, facilitando assim o processo de resolução.
+3. Todas as solicitações de suporte devem ser devidamente registradas no [Jira Service Management](https://jira.casahacker.org/servicedesk/customer/portals), fornecendo detalhes sobre o problema ou solicitação.
+4. As Pessoas devem priorizar uma descrição completa do problema ao registrar uma solicitação, facilitando assim o processo de resolução.
 5. As Pessoas devem seguir as orientações fornecidas pela equipe de suporte para resolver problemas de forma eficiente.
 6. A priorização de solicitações de suporte será feita com base na gravidade e impacto nos processos internos.
-7. Jamais compartilhe senhas com a equipe de suporte técnico, a menos que seja explicitamente instruído a fazê-lo para fins de diagnóstico ou resolução de problemas.
+7. As Pessoas não devem compartilhar senhas com a equipe de suporte técnico, a menos que seja explicitamente instruído a fazê-lo para fins de diagnóstico ou resolução de problemas.
 8. Respeitar os horários de atendimento do suporte técnico é essencial para garantir uma resposta eficaz.
 9. Após receber suporte, é recomendado que os usuários testem as soluções implementadas para garantir a resolução satisfatória dos problemas.
 10. Qualquer problema persistente ou recorrente deve ser relatado imediatamente à equipe de suporte.
-11. Evitar solicitar suporte para questões que possam ser facilmente resolvidas com recursos disponíveis, como manuais ou materiais de treinamento, contribui para a eficiência do processo de suporte técnico.
+11. As Pessoas devem evitar solicitar suporte para questões que possam ser facilmente resolvidas com recursos disponíveis, como manuais ou materiais de treinamento.
 
 ## Perda, Dano ou Roubo
 1. Qualquer dano, perda ou roubo do dispositivo deve ser reportado por meio de uma notificação no Jira Service Management em até 48 horas;

@@ -22,26 +22,36 @@ Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer,
 
 ---
 ## Nossa conduta
-As pessoas são a essência da Casa Hacker. Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade de todas as pessoas. A Casa Hacker recebe contribuições de todas as pessoas que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos de todas as pessoas engajadas o respeito a estas diretrizes para participação na comunidade de modo a criar uma experiência segura e positiva para toda comunidade.
+A Casa Hacker é uma comunidade que coloca as pessoas em primeiro lugar. A gente acredita que todo mundo é importante e merece ser tratado com respeito, independente de raça, etnia, gênero, orientação sexual, identidade de gênero, religião, deficiência ou qualquer outra característica pessoal.
 
-Estas diretrizes visam apoiar uma comunidade onde há segurança para participar, apresentar novas ideias e inspirar outras pessoas, independentemente de:
-- histórico de vida
-- situação familiar
-- gênero
-- identidade ou expressão de gênero
-- estado civil
-- sexo
-- orientação sexual
-- deficiências, seja ela física, visual, auditiva, intelectual, psicossocial ou múltipla
-- língua materna
-- idade
-- capacidade
-- etnia
-- nacionalidade
-- situação socioeconômica
-- religião
-- localização geográfica
-- qualquer outra dimensão da diversidade
+Recebemos todos que compartilham nossos objetivos e quer colaborar de maneira saudável e construtiva. A gente acredita que a diversidade é o que enriquece a nossa comunidade e ajuda a criar um ambiente mais inclusivo.
+
+Por isso, temos um código de conduta que define as diretrizes pra participação na comunidade. Esse código exige que todos respeitem os seguintes princípios:
+- Respeito: A gente tem que tratar todo mundo com respeito, tá ligado?
+- Inclusão: A gente tem que fazer todo mundo se sentir bem-vindo e incluído na comunidade.
+- Construtivismo: A gente tem que discutir as coisas de maneira construtiva e respeitosa, com foco no assunto em questão.
+- Segurança: A gente tem que fazer todo mundo se sentir seguro e protegido na comunidade.
+
+Acreditamos que, seguindo esse código de conduta, todo mundo pode contribuir pra criar uma experiência segura e positiva pra toda a comunidade.
+
+Estas diretrizes promovem uma comunidade inclusiva e acolhedora, onde todos são tratados com respeito, independentemente de:
+- Experiência de vida
+- Contexto familiar
+- Identidade de gênero
+- Expressão de gênero
+- Estado civil
+- Biológico/atribuído ao nascimento
+- Orientação sexual
+- Diversidades físicas, visuais, auditivas, intelectuais, psicossociais ou múltiplas
+- Língua materna
+- Faixa etária
+- Habilidades e capacidades
+- Grupo étnico
+- Nacionalidade
+- Posição socioeconômica
+- Prática religiosa
+- Localização geográfica
+- Outras dimensões da diversidade
 
 Abertura, colaboração e participação são aspectos fundamentais do nosso trabalho. Desde o desenvolvimento de novas tecnologias até a elaboração colaborativa de um plano de aula. A diversidade nos fortalece e buscamos a participação de quem a reforce. Estas diretrizes existem para permitir que diversas pessoas e grupos interajam e colaborem em benefício mútuo. Este documento descreve o comportamento esperado e proibido.
 
@@ -150,11 +160,9 @@ Informe também se você observar uma situação potencialmente perigosa, algué
 Se você acreditar que foi injustamente acusado de violar estas diretrizes, siga o mesmo processo de denúncia.
 
 ## Quem contatar
-Compliance Office, canais disponíveis:
-- Canal de Denúncias (uso interno e externo): compliance.casahacker.org
-- E-mail (uso interno e externo): compliance@casahacker.org
-- Jira Service Management (uso interno): jira.casahacker.org/servicedesk
-- Correspondência: Associação Casa Hacker, A/C Compliance Office, R. Dr. Renato Paes de Barros, 618, Cj 01 - Itaim Bibi, São Paulo - SP, 04530-000.
+Canais disponíveis:
+- Canal de Denúncias: compliance.casahacker.org
+- E-mail: compliance@casahacker.org
 
 ## Espaços
 Cada espaço físico ou virtual da Casa Hacker deve ter um responsável.

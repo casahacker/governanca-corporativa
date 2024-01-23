@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equipamentos
-nav_order: 5
+nav_order: 11
 ---
 # Equipamentos
 {: .no_toc }

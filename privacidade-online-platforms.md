@@ -66,7 +66,10 @@ A fim de manter os seus dados pessoais seguros e evitar incidentes, nós emprega
 
 Todos os softwares, ferramentas e tecnologias adotadas pela Casa Hacker no tratamento de dados pessoais levam em consideração as práticas de mercado e contam com um nível razoável de atualização. 
 
-Você deve colaborar para manter a segurança de seus dados pessoais, assegurando que o ambiente de seu computador ou dispositivo de acesso ao site permaneçam seguros, a partir (i) do uso de ferramentas adequadas, como, por exemplo, antivírus e firewall, (ii) da utilização de versões atualizadas de navegadores, sistemas operacionais e demais software aplicáveis, bem como (iii) do não compartilhamento de seus logins e senhas com terceiros.
+Você deve colaborar para manter a segurança de seus dados pessoais, assegurando que o ambiente de seu computador ou dispositivo de acesso ao site permaneçam seguros, a partir:
+1. do uso de ferramentas adequadas, como, por exemplo, antivírus e firewall;
+2. da utilização de versões atualizadas de navegadores, sistemas operacionais e demais software aplicáveis;
+3. bem como do não compartilhamento de seus logins e senhas com terceiros.
 
 A Casa Hacker não solicitará por e-mail, telefone ou mensagem informações relativas a suas senhas de acesso ou quaisquer informações pessoais a seu respeito. Caso você suspeite que os seus dados pessoais estejam em risco, você deve entrar em contato conosco.
 
@@ -101,7 +104,6 @@ Sempre que houver uma atualização desta Política de Privacidade, a Casa Hacke
 Este documento é regido e deve ser interpretado de acordo com as leis da República Federativa do Brasil. Fica eleito o foro da comarca de São Paulo, Estado de São Paulo como o competente para dirimir quaisquer questões porventura oriundas do presente documento.
 
 ## Contate a Casa Hacker
-
 Caso você queira ter acesso, alterar e/ou queira excluir seus dados pessoais armazenados por nós, ou mesmo caso você tenha alguma dúvida ou contestação, você poderá entrar em contato conosco para todas essas finalidades utilizando as informações de contato indicadas abaixo.
 
 Associação Casa Hacker

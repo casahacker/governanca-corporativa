@@ -3,16 +3,10 @@ layout: default
 title: Manual Anticorrupção
 nav_order: 5
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Manual Anticorrupção
 {: .no_toc }
 
 Diretrizes de comportamento para algumas das mais conhecidas situações possíveis de corrupção, além de difundir as melhores práticas de relacionamento com o setor público.
-
 {: .fs-6 .fw-300 }
 
 ## Índice

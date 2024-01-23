@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Compliance
-nav_order: 3
+nav_order: 2
 ---
 # Política de Compliance
 {: .no_toc }

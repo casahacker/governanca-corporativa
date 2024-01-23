@@ -3,16 +3,10 @@ layout: default
 title: Reembolso
 nav_order: 5
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Política de Reembolso
 {: .no_toc }
 
 Diretrizes para o reembolso de despesas realizadas por Pessoas beneficiárias ou à serviço da Casa Hacker.
-
 {: .fs-6 .fw-300 }
 
 ## Índice

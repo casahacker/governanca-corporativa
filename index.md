@@ -4,10 +4,9 @@ title: Início
 nav_order: 1
 ---
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Governança Corporativa
-Seja bem-vindo ao repositório de governança corporativa da Casa Hacker, aqui estão nossos principais processos, políticas e estruturas que regulam nossa administração.
+Repositório de processos, políticas e estruturas que regulam a administração da organização.
 
 ## Contexto
 A Casa Hacker iniciou sua jornada em 2018 como um coletivo informal de pessoas com o propósito de empreender iniciativas para assegurar que as comunidades locais respondam de maneira apropriada às oportunidades fornecidas pela tecnologia na era digital, e que seus potenciais benefícios sejam abertos e acessíveis a todos.
@@ -23,36 +22,32 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 
 ## Políticas
 ### Gerais
-- [Código de Conduta da Comunidade](#)
-- [Compliance](#)
-- [Anticorrupção](#)
-- [Compras e Contratações](politicas/compras.md)
-- [Reembolso](#)
-- [Viagens](#)
-- [Uber Empresas](#)
-- [Férias](#)
-- [Privacidade](#)
-- [Segurança da Informação](#)
-- [Equipamentos](/politicas/equipamentos.md)
-- [Assuntos Jurídicos (Legal Affairs)](#)
-
-### Aplicável a Projetos, Programas e Eventos
-- [Lobby e Incidência Política](#)
-- [Proteção à Criança e ao Adolescente](políticas/protecao-a-criança-e-ao-adolescente.md)
-- [Informação de Atividades, Atendimento e Beneficiários](#)
-
-### Aplicável a Fornecedores
-- [Código de Conduta do Fornecedor](politicas/codigo-de-etica-e-conduta-do-fornecedor.md)
-- [Condições Gerais de Compras](politicas/condicoes-gerais-de-compras.md)
+1. [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md) :white_check_mark:
+1. [Compliance](compliance.md) :white_check_mark:
+1. [Anticorrupção](manual-anticorrupcao.md) :white_check_mark:
+1. [Compras e Contratações](compras.md) :white_check_mark:
+1. [Reembolso](reembolso.md) :white_check_mark:
+1. [Viagens](#) :pencil2:
+1. [Uber Empresas](#) :pencil2:
+1. [Férias](ferias.md) :white_check_mark:
+1. [Privacidade](#) :pencil2:
+1. [Segurança da Informação](#) :pencil2:
+1. [Equipamentos](equipamentos.md) :white_check_mark:
+1. [Assuntos Jurídicos (Legal Affairs)](#) :pencil2:
+1. [Lobby e Incidência Política](#) :pencil2:
+1. [Proteção à Criança e ao Adolescente](protecao-a-criança-e-ao-adolescente.md) :white_check_mark:
+1. [Informação de Atividades, Atendimento e Beneficiários](#) :pencil2:
+1. [Código de Conduta do Fornecedor](codigo-de-etica-e-conduta-do-fornecedor.md) :white_check_mark:
+1. [Condições Gerais de Compras](condicoes-gerais-de-compras.md) :white_check_mark:
 
 ### Em desenvolvimento
-- [Saúde e Segurança](#)
-- [Sustentabilidade](#)
-- [Voluntariado](#)
-- [Concessão de Benefícios](#)
-- [Eventos](#)
-- [Marca](#)
-- [Doações](#)
+1. [Saúde e Segurança](#)
+1. [Sustentabilidade](#)
+1. [Voluntariado](#)
+1. [Concessão de Benefícios](#)
+1. [Eventos](#)
+1. [Marca](#)
+1. [Doações](#)
 
 ## Contribua
 

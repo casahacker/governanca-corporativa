@@ -1,13 +1,8 @@
 ---
 layout: default
 title: Código de Ética e Conduta do Fornecedor
-nav_order: 3
+nav_order: 16
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Código de Ética e Conduta do Fornecedor
 {: .no_toc }
 

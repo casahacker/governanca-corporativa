@@ -17,36 +17,36 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 
 ## Políticas
 ### Gerais
-- [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md) :white_check_mark:
-- [Compliance](compliance.md) :white_check_mark:
-- [Anticorrupção](#) :pencil2:
-- [Compras e Contratações](compras.md) :white_check_mark:
-- [Reembolso](reembolso.md) :white_check_mark:
-- [Viagens](#) :pencil2:
-- [Uber Empresas](#) :pencil2:
-- [Férias](#) :pencil2:
-- [Privacidade](#) :pencil2:
-- [Segurança da Informação](#) :pencil2:
-- [Equipamentos](equipamentos.md) :white_check_mark:
-- [Assuntos Jurídicos (Legal Affairs)](#) :pencil2:
+1. [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md) :white_check_mark:
+1. [Compliance](compliance.md) :white_check_mark:
+1. [Anticorrupção](#) :pencil2:
+1. [Compras e Contratações](compras.md) :white_check_mark:
+1. [Reembolso](reembolso.md) :white_check_mark:
+1. [Viagens](#) :pencil2:
+1. [Uber Empresas](#) :pencil2:
+1. [Férias](#) :pencil2:
+1. [Privacidade](#) :pencil2:
+1. [Segurança da Informação](#) :pencil2:
+1. [Equipamentos](equipamentos.md) :white_check_mark:
+1. [Assuntos Jurídicos (Legal Affairs)](#) :pencil2:
 
 ### Aplicável a Projetos, Programas e Eventos
-- [Lobby e Incidência Política](#) :pencil2:
-- [Proteção à Criança e ao Adolescente](protecao-a-criança-e-ao-adolescente.md) :white_check_mark:
-- [Informação de Atividades, Atendimento e Beneficiários](#) :pencil2:
+1. [Lobby e Incidência Política](#) :pencil2:
+1. [Proteção à Criança e ao Adolescente](protecao-a-criança-e-ao-adolescente.md) :white_check_mark:
+1. [Informação de Atividades, Atendimento e Beneficiários](#) :pencil2:
 
 ### Aplicável a Fornecedores
-- [Código de Conduta do Fornecedor](codigo-de-etica-e-conduta-do-fornecedor.md) :white_check_mark:
-- [Condições Gerais de Compras](condicoes-gerais-de-compras.md) :white_check_mark:
+1. [Código de Conduta do Fornecedor](codigo-de-etica-e-conduta-do-fornecedor.md) :white_check_mark:
+1. [Condições Gerais de Compras](condicoes-gerais-de-compras.md) :white_check_mark:
 
 ### Em desenvolvimento
-- [Saúde e Segurança](#)
-- [Sustentabilidade](#)
-- [Voluntariado](#)
-- [Concessão de Benefícios](#)
-- [Eventos](#)
-- [Marca](#)
-- [Doações](#)
+1. [Saúde e Segurança](#)
+1. [Sustentabilidade](#)
+1. [Voluntariado](#)
+1. [Concessão de Benefícios](#)
+1. [Eventos](#)
+1. [Marca](#)
+1. [Doações](#)
 
 ## Contribua
 

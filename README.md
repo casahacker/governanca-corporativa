@@ -17,23 +17,23 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 
 ## Políticas
 ### Gerais
-- [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md)
+- [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md) :white_check_mark:
 - [Compliance](compliance.md) :white_check_mark:
-- [Anticorrupção](#)
+- [Anticorrupção](#) :pencil2:
 - [Compras e Contratações](compras.md) :white_check_mark:
 - [Reembolso](reembolso.md) :white_check_mark:
-- [Viagens](#)
-- [Uber Empresas](#)
-- [Férias](#)
-- [Privacidade](#)
-- [Segurança da Informação](#)
+- [Viagens](#) :pencil2:
+- [Uber Empresas](#) :pencil2:
+- [Férias](#) :pencil2:
+- [Privacidade](#) :pencil2:
+- [Segurança da Informação](#) :pencil2:
 - [Equipamentos](equipamentos.md) :white_check_mark:
-- [Assuntos Jurídicos (Legal Affairs)](#)
+- [Assuntos Jurídicos (Legal Affairs)](#) :pencil2:
 
 ### Aplicável a Projetos, Programas e Eventos
-- [Lobby e Incidência Política](#)
+- [Lobby e Incidência Política](#) :pencil2:
 - [Proteção à Criança e ao Adolescente](protecao-a-criança-e-ao-adolescente.md) :white_check_mark:
-- [Informação de Atividades, Atendimento e Beneficiários](#)
+- [Informação de Atividades, Atendimento e Beneficiários](#) :pencil2:
 
 ### Aplicável a Fornecedores
 - [Código de Conduta do Fornecedor](codigo-de-etica-e-conduta-do-fornecedor.md) :white_check_mark:

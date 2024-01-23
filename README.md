@@ -16,11 +16,12 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 - [Quadro de Associados, Diretores Executivos e Conselheiros](QUADRO-SOCIETÁRIO.md)
 
 ## Políticas
-### Gerais
 1. [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md) :white_check_mark:
 1. [Compliance](compliance.md) :white_check_mark:
 1. [Anticorrupção](manual-anticorrupcao.md) :white_check_mark:
 1. [Compras e Contratações](compras.md) :white_check_mark:
+1. [Código de Ética e Conduta do Fornecedor](codigo-de-etica-e-conduta-do-fornecedor.md) :white_check_mark:
+1. [Condições Gerais de Compras](condicoes-gerais-de-compras.md) :white_check_mark:
 1. [Reembolso](reembolso.md) :white_check_mark:
 1. [Viagens](#) :pencil2:
 1. [Uber Empresas](#) :pencil2:
@@ -32,8 +33,6 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 1. [Lobby e Incidência Política](#) :pencil2:
 1. [Proteção à Criança e ao Adolescente](protecao-a-criança-e-ao-adolescente.md) :white_check_mark:
 1. [Informação de Atividades, Atendimento e Beneficiários](#) :pencil2:
-1. [Código de Conduta do Fornecedor](codigo-de-etica-e-conduta-do-fornecedor.md) :white_check_mark:
-1. [Condições Gerais de Compras](condicoes-gerais-de-compras.md) :white_check_mark:
 
 ### Em desenvolvimento
 1. [Saúde e Segurança](#)

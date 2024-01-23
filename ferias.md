@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Férias
-nav_order: 5
+nav_order: 8
 ---
 Aprovada
 {: .label .label-blue }

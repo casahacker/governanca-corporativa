@@ -19,7 +19,7 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 ### Gerais
 1. [Código de Conduta da Comunidade](CODE_OF_CONDUCT.md) :white_check_mark:
 1. [Compliance](compliance.md) :white_check_mark:
-1. [Anticorrupção](#) :pencil2:
+1. [Anticorrupção](#) :white_check_mark:
 1. [Compras e Contratações](compras.md) :white_check_mark:
 1. [Reembolso](reembolso.md) :white_check_mark:
 1. [Viagens](#) :pencil2:

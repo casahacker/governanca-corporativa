@@ -3,11 +3,6 @@ layout: default
 title: Compliance
 nav_order: 3
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Política de Compliance
 {: .no_toc }
 

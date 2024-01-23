@@ -26,7 +26,7 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 1. [Viagens](#) :pencil2:
 1. [Uber Empresas](uber-business.md) :white_check_mark:
 1. [Férias](ferias.md) :white_check_mark:
-1. [Privacidade](#) :pencil2:
+1. [Privacidade](privacidade-online-platforms.md) :white_check_mark:
 1. [Segurança da Informação](#) :pencil2:
 1. [Equipamentos](equipamentos.md) :white_check_mark:
 1. [Assuntos Jurídicos (Legal Affairs)](#) :pencil2:

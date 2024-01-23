@@ -3,16 +3,10 @@ layout: default
 title: Férias
 nav_order: 8
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Política de Férias Coletivas
 {: .no_toc }
 
 As férias coletivas ocorrerão anualmente, com início em 15 de dezembro de cada ano, visando promover o descanso, a renovação de energias e a eficiência operacional.
-
 {: .fs-6 .fw-300 }
 
 ## Índice

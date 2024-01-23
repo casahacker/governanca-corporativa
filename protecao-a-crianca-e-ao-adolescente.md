@@ -3,11 +3,6 @@ layout: default
 title: Proteção à Criança e ao Adolescente
 nav_order: 6
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Proteção à Criança e ao Adolescente
 {: .no_toc }
 

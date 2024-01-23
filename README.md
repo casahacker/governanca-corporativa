@@ -24,7 +24,7 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 1. [Reembolso](reembolso.md) :white_check_mark:
 1. [Viagens](#) :pencil2:
 1. [Uber Empresas](#) :pencil2:
-1. [Férias](ferias.md) :pencil2:
+1. [Férias](ferias.md) :white_check_mark:
 1. [Privacidade](#) :pencil2:
 1. [Segurança da Informação](#) :pencil2:
 1. [Equipamentos](equipamentos.md) :white_check_mark:

@@ -104,11 +104,7 @@ Sempre que houver uma atualização desta Política de Privacidade, a Casa Hacke
 Este documento é regido e deve ser interpretado de acordo com as leis da República Federativa do Brasil. Fica eleito o foro da comarca de São Paulo, Estado de São Paulo como o competente para dirimir quaisquer questões porventura oriundas do presente documento.
 
 ## Contate a Casa Hacker
-Caso você queira ter acesso, alterar e/ou queira excluir seus dados pessoais armazenados por nós, ou mesmo caso você tenha alguma dúvida ou contestação, você poderá entrar em contato conosco para todas essas finalidades utilizando as informações de contato indicadas abaixo.
-
-Associação Casa Hacker
-A/C Geraldo Barros, Diretor de Proteção de Dados
-E-mail: privacidade@casahacker.org
+Caso você queira ter acesso, alterar e/ou queira excluir seus dados pessoais armazenados por nós, ou mesmo caso você tenha alguma dúvida ou contestação, você poderá entrar em contato conosco para todas essas finalidades enviando um e-mail para [privacidade@casahacker.org](privacidade@casahacker.org) que será prontamente atendido por Geraldo Barros, responsável pela Proteção de Dados na Casa Hacker.
 
 ## Vigência
 A presente Política entra em vigor a contar da data de sua aprovação permanecendo válida e aplicável até seja alterada.

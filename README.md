@@ -32,7 +32,7 @@ Faz parte da nossa cultura a manutenção de processos transparentes e com a col
 1. [Assuntos Jurídicos (Legal Affairs)](#) :pencil2:
 1. [Lobby e Incidência Política](#) :pencil2:
 1. [Proteção à Criança e ao Adolescente](protecao-a-criança-e-ao-adolescente.md) :white_check_mark:
-1. [Informação de Atividades, Atendimento e Beneficiários](#) :pencil2:
+1. [Gestão de Dados Sociais](#) :pencil2:
 
 ### Em desenvolvimento
 1. [Saúde e Segurança](#)

@@ -3,11 +3,6 @@ layout: default
 title: Equipamentos
 nav_order: 5
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Equipamentos
 {: .no_toc }
 

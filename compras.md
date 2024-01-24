@@ -77,7 +77,7 @@ A homologação de fornecedores garantirá que os mesmos atendam aos requisitos 
 Os requisitos para homologação de fornecedores são:
 1. Registro ativo no Cadastro Nacional da Pessoa Jurídica (CNPJ) da Receita Federal do Brasil;
 2. Classificação Nacional de Atividades Econômicas – CNAEs em conformidade com os bens ou serviços a serem contratados;
-3. Pessoa jurídica em conformidade com os [Débitos Relativos a Créditos Tributários Federais e à Dívida Ativa da União](https://solucoes.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir)
+3. Pessoa jurídica em conformidade com os [Débitos Relativos a Créditos Tributários Federais e à Dívida Ativa da União](https://solucoes.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir);
 4. Pessoa jurídica não sancionada no [Cadastro de Empresas Inidôneas e Suspensas - CEIS](https://portaldatransparencia.gov.br/sancoes/consulta?cadastro=1&ordenarPor=nomeSancionado&direcao=asc) e SAM [The System for Award Management (SAM)](http://www.sam.gov/) do U.S. federal government;
 5. Licenças e autorizações emitidas por autoridades regulamentadoras (em caso de fornecimento de bens e serviços regulamentados por Lei);
 6. Ter uma conta corrente ou conta de pagamento ativa em uma instituição financeira brasileira.

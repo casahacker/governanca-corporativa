@@ -3,7 +3,7 @@ layout: default
 title: Equipamentos
 nav_order: 11
 ---
-# Equipamentos
+# Política de Equipamentos
 {: .no_toc }
 
 Gerenciamento eficiente, sustentável e seguro de todos os equipamentos utilizados nas operações da Casa Hacker.

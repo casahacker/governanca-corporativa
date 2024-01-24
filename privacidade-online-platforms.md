@@ -19,7 +19,7 @@ Como as suas informações e dados serão coletados, usados, compartilhados, arm
 ## Introdução
 Olá! Seja bem-vindo(a)!
 
-Este site e todo o seu conteúdo é de responsabilidade e operado pela Associação Casa Hacker, associação sem fins lucrativos sediada em São Paulo, com endereço Rua Luverci Pereira de Souza, 545 - Cidade Universitária, Campinas - SP, 13083-725, e cadastrada com o CNPJ 36.038.079/0001-97 ("Casa Hacker").
+Este site e todo o seu conteúdo é de responsabilidade e operado pela Associação Casa Hacker, associação sem fins lucrativos sediada em São Paulo, com endereço R. Dr. Renato Paes de Barros, 618, Cj 01 - Itaim Bibi, São Paulo - SP, 04530-000, e cadastrada com o CNPJ 36.038.079/0001-97 ("Casa Hacker").
 
 Quando você navega por este site, você nos confia dados e informações capazes de identificá-lo(a) como pessoa física – ou seja, dados pessoais. Nos comprometemos a manter essa confiança. 
 

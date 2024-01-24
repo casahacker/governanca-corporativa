@@ -43,9 +43,6 @@ Todos as atuais e futuros empreendimentos e negócios da Casa Hacker devem defin
 4. Esta política tem por objetivo construir e qualificar o conjunto de procedimentos administrativos e financeiros institucionais, bem como ampliar sua transparência e facilitar seu cumprimento. Para salvaguardar direitos das partes, a Casa Hacker adota a formalização da compra por meio de (i) contrato padrão e/ou (ii) ordem de compra, nas condições operacionais, técnicas e comerciais, na transparência e sustentabilidade dos negócios.
 5. O cumprimento das orientações a seguir é fundamental, sob risco da não liberação de recursos institucionais para pagamento dos serviços, em caso de descumprimento. O processo de compras obedecerá a princípios rígidos de equidade e transparência.
 
-## Responsabilidades
-
-
 ## Seleção de Fornecedores
 As diretrizes para seleção de fornecedores são as seguintes:
 1. Sempre buscar fornecedores que implementem boas práticas comerciais, sociais e ambientais;

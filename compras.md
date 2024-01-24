@@ -112,7 +112,7 @@ Os contratos redigidos de acordo com o Direito Civil brasileiro, a Teoria Geral 
 
 ## Fluxo do Processo
 
-Etapa 1 - Definição do Item/Serviço
+**Etapa 1 - Definição do Item/Serviço**
 1. Definição do Serviço/Item a ser contratado
 2. Elaboração do Termo de Referência (se aplicável)
 3. Tomada de Propostas e Preços
@@ -120,7 +120,9 @@ Etapa 1 - Definição do Item/Serviço
 5. Obtenção de dados da Pessoa Jurídica
 6. Preenchimento da Solicitação da [Solicitação de Compra](https://jira.casahacker.org/servicedesk/customer/portals)
 
-Etapa 2- Compra
+Esta etapa é responsabilidade integral do Gestor da Área Operacional ou de Projeto solicitante da Compra.
+
+**Etapa 2 - Compra**
 1. Análise Orçamentária
 2. Análise Técnica
 3. Análise Compra
@@ -133,12 +135,16 @@ Etapa 2- Compra
 10. Envio ao Contas a Pagar (Finanças)
 11. Conclusão da Compra
 
-Etapa 3 - Pagamento
+Nesta etapa, os itens do 1-6 são de responsabilidade integral do Analista de Compra.
+
+**Etapa 3 - Pagamento**
 1. Análise da Nota Fiscal
 2. Agendamento do Pagamento
 3. Efetivação do Pagamento
 4. Auditoria
 5. Conclusão do Pagamento
+
+Esta etapa é responsabilidade integral do Gerente de Finanças.
 
 ## Documentação fiscal válida
 Os documentos fiscais válidos nas operações de Compras são:

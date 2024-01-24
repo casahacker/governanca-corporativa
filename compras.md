@@ -3,11 +3,6 @@ layout: default
 title: Compras
 nav_order: 4
 ---
-Aprovada
-{: .label .label-blue }
-
-Vigente
-{: .label .label-green }
 # Política de Compras
 {: .no_toc }
 
@@ -25,7 +20,6 @@ Garantir, durante o processo de aquisição de bens e serviços e gestão da cad
 Garantir, durante o processo de aquisição de bens e serviços e gestão da cadeia de fornecedores e prestadores de serviços, a construção de relacionamento ético e transparente buscando qualidade, impacto social e sustentabilidade. Este relacionamento deve assegurar a perenidade e legalidade das operações atividades, além de estimular a responsabilidade socioambiental e inovação de forma contínua e evolutiva.
 
 ## Abrangência
-
 A presente política aplica-se a todas as compras que incluem: 
 * Compras de mercadorias, materiais e serviços;
 * Compras nacionais e internacionais;
@@ -108,7 +102,6 @@ Sempre que uma compra atender a um ou mais dos critérios a seguir, a área de C
 Os contratos redigidos de acordo com o Direito Civil brasileiro, a Teoria Geral dos Contratos e as [Condições Gerais de Compras](governanca-corporativa/condicoes-gerais-de-compras.html).
 
 ## Fluxo do Processo
-
 **Etapa 1 - Definição do Item/Serviço**
 1. Definição do Serviço/Item a ser contratado
 2. Elaboração do Termo de Referência (se aplicável)

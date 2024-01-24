@@ -7,7 +7,7 @@ nav_order: 17
 # Condições Gerais de Compras
 {: .no_toc }
 
-Garantir, durante o processo de aquisição de bens e serviços e gestão da cadeia de fornecedores e prestadores de serviços, a construção de relacionamento ético e transparente buscando qualidade, impacto social e sustentabilidade.
+Estas Condições Gerais de Compra regularão todos os pedidos relacionados a produtos e/ou serviços, colocados pela Casa Hacker junto ao Fornecedor.
 {: .fs-6 .fw-300 }
 
 ## Índice

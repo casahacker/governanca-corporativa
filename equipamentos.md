@@ -65,7 +65,7 @@ Em caso de computadores, como smartphones, laptops, desktops, tablets e outros d
 2. Dispositivos alimentados por baterias que tenham perdido sua capacidade total não devem ser descartados exclusivamente por esse motivo. Em vez disso, bateria deverá ser substituida por uma nova fornecida pelo fabricante.
 
 ## Transporte
-O transporte/deslocamento deve ser realizado em mochila impermeável e anti impacto para absorção de choque e para locais remotos somente quando for estritamente necessário.
+1. O transporte/deslocamento deve ser realizado em mochila impermeável e anti impacto para absorção de choque e para locais remotos somente quando for estritamente necessário.
 
 ## Suporte Técnico
 1. A solicitação de suporte técnico deve ser feito exclusivamente por meio do [Jira Service Management](https://jira.casahacker.org/servicedesk/customer/portals).
@@ -91,7 +91,8 @@ O transporte/deslocamento deve ser realizado em mochila impermeável e anti impa
 3. Os prazos sãp estimativas médias que podem variar para mais ou para menos horas ou dias.
 
 ## Disposições finais
-1. A Casa Hacker reserva-se o direito de solicitar a devolução dos Equipamentos e Serviços a qualquer momento, caso opte por realocar o equipamento para outra finalidade. A devolução deverá ser realizada em até 5 dias úteis a partir da solicitação.
+1. Em até 5 dias úteis antes do término do vínculo contratual com a Casa Hacker, todos os equipamentos e serviços, incluindo os periféricos e acessórios devem ser devolvidos no Escritório de Campinas (R. Luverci Pereira de Souza, 545 - Cidade Universitária, Campinas - SP, 13083-725). A devolução deve ser comunicada por meio de uma solicitação no [Jira Service Management](https://jira.casahacker.org/servicedesk/customer/portals), é obrigatória, independe de solicitação prévia e deve ser realizada com a devida identificação do remetente.
+2. A Casa Hacker reserva-se o direito de solicitar a devolução dos Equipamentos e Serviços a qualquer momento, caso opte por realocar o equipamento para outra finalidade. A devolução deverá ser realizada em até 5 dias úteis a partir da solicitação.
 
 ## Vigência
 1. A presente Política entra em vigor a contar da data de sua aprovação permanecendo válida e aplicável até seja alterada.
